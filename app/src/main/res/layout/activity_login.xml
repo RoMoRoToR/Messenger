@@ -25,12 +25,14 @@
         android:inputType="textPassword"
         android:hint="@string/password"
         android:autofillHints="" />
+
     <Button
         android:id="@+id/btn_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/default_margin"
-        android:hint="@string/login"/>
+        android:hint="@string/login" />
+
     <Button
         android:id="@+id/btn_sign_up"
         android:layout_width="wrap_content"
